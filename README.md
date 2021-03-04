@@ -424,7 +424,7 @@
 	    * ex) master1 priority 100, master2 priority 99, master3 priority 98 
 	* virtual_ipaddress : virtual ip(VIP) 설정
 	* virtual_router_id : vritual router id ex) 50
-	* auth_pass : 비밀번호 
+	* auth_pass : 비밀번호 설정
 	
     * keepalived 재시작 및 상태 확인
     ```bash
